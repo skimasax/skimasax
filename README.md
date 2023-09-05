@@ -1,8 +1,11 @@
 <h2> Hey there! I'm Adeitan Abimbola Moses, A Backend Developer and a Devops Engineer .</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+<br>
 - 🎓 &nbsp; I learn every day about Backend development and Cloud Architecture
-- 💼 &nbsp; Working as a backend Developer and passionate about Event-Driven microservices 
+<br>
+- 💼 &nbsp; Working as a backend Developer and passionate about Event-Driven microservices.
+<br>
 - 🌱 &nbsp; Learning more about Backend development, Systems Design, and Cloud Architecture.
 
  
