@@ -32,7 +32,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adeitan-abimbola-997421159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adewale%20Oretuga%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/adeitan-abimbola-997421159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abimbola%20Adeitan%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/skimasax/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-skimasax__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:youngskima@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-youngskima@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
